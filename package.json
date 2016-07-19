@@ -1,0 +1,14 @@
+{
+  "name": "uuidgen",
+  "version": "1.0.0",
+  "description": "simple command line replacement for *nix uuidgen",
+  "bin": "bin/uuidgen.js",
+  "scripts": {
+  },
+  "author": "Jim Stamp <jim.a.stamp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "uuid": "^2.0.2"
+  }
+}
